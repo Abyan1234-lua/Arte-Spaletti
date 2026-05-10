@@ -6,4 +6,5 @@ Arte-Spaletti is inspired by Name of Anime Character "Arte Spaletti" from Arte, 
 
 Current Added Skill
 1. arte-flow : Designed for creating high-quality artwork for entertainment purposes.
+2. arte-design : Designed for creating commercial art and advertising
 
